@@ -1,24 +1,60 @@
 {
     "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "name": "Acheron",
+    "author": "Ryamu",
+    "creators": ["Ryamu", "Riot", "GrenadeofTacos", "Icedcave"],
+    "verifier": "[ARF] Zoink",
+    "verification": "https://youtu.be/sBKR6aUorzA?si=pQWPATLgJTzTB_wn",
+    "percentToQualify": 61,
+    "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "[TCD] Doggie",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
+                    },
+         {
+            "user": "Friedchicken",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 120
-        }
+            "hz": 360
+                    },
+         {
+            "user": "Egster",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+         {
+            "user": "Spirix",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+         {
+            "user": "[TCD] Trick",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+         {
+            "user": "Goofboy",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+         {
+            "user": "Wpopoff",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+         {
+            "user": "Totalgd",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
     ]
 }
