@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "CraZy II",
+    "author": "DavJT",
+    "creators": ["DavJT", "Karmal", "GrenadeofTacos", "Icedcave"],
+    "verifier": "Wpopoff",
+    "verification": "https://youtu.be/eGPNEaZV6cc?si=hW_fm6kaNIYiEoUZ",
+    "percentToQualify": 55,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+         {
+            "user": "[WBT] Taiago",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
