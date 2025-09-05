@@ -1,1 +1,36 @@
-
+{
+    "id": 57436521,
+    "name": "Tidal Wave",
+    "author": "Onilink",
+    "creators": ["Onilink"],
+    "verifier": "[WBT] Wpopoff",
+    "verification": "https://youtu.be/mxR1JQmQyrc?si=AtJ4D5zEc5FGrY-_",
+    "percentToQualify": 63,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "Spirix",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "[SSS] SerVax",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "[WBT] Taiago",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
