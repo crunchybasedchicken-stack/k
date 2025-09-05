@@ -1,1 +1,18 @@
-
+{
+    "id": 57436521,
+    "name": "Poltergeist",
+    "author": "TCTeam",
+    "creators": ["TCTeam", "Andromeda"],
+    "verifier": "[ZBOT] Arshadow",
+    "verification": "https://youtu.be/63sr55FXqsI?si=846htjMxUzPKUMo2",
+    "percentToQualify": 67,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[TCD] Trick",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
