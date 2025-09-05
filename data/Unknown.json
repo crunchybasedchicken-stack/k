@@ -1,0 +1,42 @@
+{
+    "id": 57436521,
+    "name": "Unknown",
+    "author": "Ninedice",
+    "creators": ["Ryamu", "Spkgmd", "Ninedice"],
+    "verifier": "[ARF] Zoink",
+    "verification": "https://youtu.be/qKR9fxHod_0?si=u_aYTgMhSB0JmcSo",
+    "percentToQualify": 72,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "[TCD] Doggie",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+{
+            "user": "[THNDR] Thnnder",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+{
+            "user": "[SARK] Netermind",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+{
+            "user": "[DL] zoe",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
