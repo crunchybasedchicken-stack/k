@@ -1,19 +1,13 @@
 {
     "id": 57436521,
-    "name": "Acheron",
-    "author": "Ryamu",
-    "creators": ["Ryamu", "Riot", "GrenadeofTacos", "Icedcave"],
-    "verifier": "[ARF] Zoink",
-    "verification": "https://youtu.be/sBKR6aUorzA?si=pQWPATLgJTzTB_wn",
-    "percentToQualify": 61,
+    "name": "Supersonic Vortex",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "[TCD] Trick",
+    "verification": "https://youtu.be/KUItyH1A6s4?si=KL-Z6E1RZwGPBVdj",
+    "percentToQualify": 67,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "[TCD] Doggie",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-                    },
          {
             "user": "Friedchicken",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
@@ -21,37 +15,13 @@
             "hz": 360
                     },
          {
-            "user": "Egster",
+            "user": "[ARF] Zoink",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
                     },
          {
-            "user": "Spirix",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-                    },
-         {
-            "user": "[TCD] Trick",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-                    },
-         {
-            "user": "Goofboy",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-                    },
-         {
-            "user": "Wpopoff",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-                    },
-         {
-            "user": "Totalgd",
+            "user": "Cursed",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
