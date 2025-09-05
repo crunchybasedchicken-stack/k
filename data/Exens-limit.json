@@ -1,0 +1,48 @@
+{
+    "id": 57436521,
+    "name": "Exen's Limit",
+    "author": "Exen",
+    "creators": ["Exen", "Nick24"],
+    "verifier": "Cursed",
+    "verification": "https://youtu.be/KZksoQVGmKw?si=L_av25H5tUuVKNnf",
+    "percentToQualify": 64,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[ARF] Zoink",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+       {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+       {
+            "user": "Totalgd",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+       {
+            "user": "[TCD] Trick",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "eastshark",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[TCD] Diamond",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
