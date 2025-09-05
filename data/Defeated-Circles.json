@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "Defeated Circles",
+    "author": "Galaxium",
+    "creators": ["Galaxium", "Slendstone", "Muriday", "Plenka"],
+    "verifier": "[ARF] Zoink",
+    "verification": "https://youtu.be/nU5AQPzd2YA?si=_a7AtkJVXeQpVV6n",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[ZBOT] Arshadow",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+       {
+            "user": "SnowBallerr",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
