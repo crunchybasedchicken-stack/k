@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Acheron",
+    "author": "Ryamu",
+    "creators": ["Ryamu", "Riot", "GrenadeofTacos", "Icedcave"],
+    "verifier": "[ARF] Zoink",
+    "verification": "https://youtu.be/sBKR6aUorzA?si=pQWPATLgJTzTB_wn",
+    "percentToQualify": 61,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[TCD] Doggie",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
