@@ -1,1 +1,96 @@
-
+{
+    "id": 57436521,
+    "name": "Acheron",
+    "author": "Ryamu",
+    "creators": ["Ryamu", "Riot", "GrenadeofTacos", "Icedcave"],
+    "verifier": "Totalgd",
+    "verification": "https://youtu.be/OqGuNBi3_SU?si=Mgd8epyf4ORE9XRc",
+    "percentToQualify": 68,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[TCD] Trick",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "Friedchicken",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "Cursed",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "[ARF] Zoink",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "cobrablitz",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "[Ñ] RaeveZ",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "Zeronium",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "[USSR] Light",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "[FOWL] Hqmy",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 100,
+            "hz": 360
+                    },
+        {
+            "user": "PersonHuman42",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 78,
+            "hz": 360
+                    },
+        {
+            "user": "TheBlissfulVoid",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 77,
+            "hz": 360
+                    },
+        {
+            "user": "[MDT] Swooker",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 77,
+            "hz": 360
+                    },
+        {
+            "user": "MatsuoIsHere",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 74,
+            "hz": 360
+                    },
+        {
+            "user": "[RF] turtle",
+            "link": "https://youtu.be/iFBkJFUydkE?si=kMn7ubWWWwwSjye9",
+            "percent": 69,
+            "hz": 360
+                    },
+    ]
+}
