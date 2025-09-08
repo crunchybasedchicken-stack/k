@@ -5,7 +5,7 @@
     "creators": ["Icedcave", "River", "Dr. Cuber"],
     "verifier": "Friedchicken",
     "verification": "https://youtu.be/GGv7_L6tN8Y?si=HoxqiZAaJpSOzXv1",
-    "percentToQualify": 60,
+    "percentToQualify": 74,
     "password": "Not Copyable",
     "records": [
         {
@@ -36,6 +36,24 @@
             "user": "[WBT] Wpopoff",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "[TCD] Trick",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 79,
+            "hz": 360
+        },
+        {
+            "user": "[THNDR] Thnnder",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 79,
+            "hz": 360
+        },
+        {
+            "user": "[DL] zoe",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 75,
             "hz": 360
         }
     ]
