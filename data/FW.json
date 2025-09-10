@@ -1,0 +1,90 @@
+{
+    "id": 57436521,
+    "name": "Firework",
+    "author": "CherryTeam",
+    "creators": ["CherryTeam"],
+    "verifier": "[TCD] Trick",
+    "verification": "https://youtu.be/QBe5x2o9v2w?si=TXyacnrsfbBXYwLP",
+    "percentToQualify": 79,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Cursed",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+       {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[ARF] Zoink",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[USSR] Dolphy",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "Crisis",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[FAX] Hover",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[THNDR] Thnnder",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "Laniakea",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[ZBOT] Arshadow",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 97,
+            "hz": 360
+                    },
+      {
+            "user": "[THNDR] moosoose",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 94,
+            "hz": 360
+                    },
+      {
+            "user": "[KIRB] Luna",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 90,
+            "hz": 360
+                    },
+      {
+            "user": "[IQB7] BlueGMD",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 88,
+            "hz": 360
+                    },
+      {
+            "user": "Rexern",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 82,
+            "hz": 360
+                    }
+    ]
+}
