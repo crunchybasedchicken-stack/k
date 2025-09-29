@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "In Rainbows",
+    "author": "MrPepper2‬",
+    "creators": ["MrPepper2‬", "more"],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=8cFFo5tHk64&list=RD8cFFo5tHk64",
+    "percentToQualify": 71,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[SARK] Netermind",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
