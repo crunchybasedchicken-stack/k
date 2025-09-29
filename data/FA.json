@@ -1,0 +1,30 @@
+{
+    "id": 57436521,
+    "name": "Fallen Angel",
+    "author": "MinAY",
+    "creators": ["MinAY", "GrenadeofTacos"],
+    "verifier": "Puffbuni",
+    "verification": "https://youtu.be/bgeI9QYsE0I?si=QxYbcnPTebXshTfQ",
+    "percentToQualify": 76,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[ARF] Zoink",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[RF] turtle",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
