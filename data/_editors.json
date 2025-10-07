@@ -1,17 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "List Owner [DL] Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "Head Mod",
+        "name": "Head Mod [DL] zoe",
         "link": "https://www.youtube.com/@paqoe"
     },
     {
         "role": "helper",
-        "name": "List Mod [DL] zoe",
+        "name": "List Mod [DL] adrian",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "helper",
+        "name": "List Mod [DL] LORDVADERCRAFT",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
