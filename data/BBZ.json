@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Bloodbath Z",
+    "author": "Riot",
+    "creators": ["KugelBlitZ", "Riot"],
+    "verifier": "Friedchicken",
+    "verification": "https://youtu.be/OjlaRc3WNYs?si=4xcncESAJWaey7HZ",
+    "percentToQualify": 61,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[KIRB] Luna",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
