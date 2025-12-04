@@ -1,0 +1,30 @@
+{
+    "id": 57436521,
+    "name": "Sary never clear",
+    "author": "Sary",
+    "creators": ["Sary", "Icedcave"],
+    "verifier": "[MEALY] zLevii",
+    "verification": "https://youtu.be/sBKR6aUorzA?si=pQWPATLgJTzTB_wn",
+    "percentToQualify": 61,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "Cursed",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[IQB7] BlueGMD",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
