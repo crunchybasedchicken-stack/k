@@ -1,0 +1,30 @@
+{
+    "id": 57436521,
+    "name": "Slent Clubstep",
+    "author": "TheRealSalient",
+    "creators": ["TheRealSalient"],
+    "verifier": "[DL] zoe",
+    "verification": "https://youtu.be/sBKR6aUorzA?si=pQWPATLgJTzTB_wn",
+    "percentToQualify": 61,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[ARF] Zoink",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "[TCD] Doggie",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    },
+      {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
