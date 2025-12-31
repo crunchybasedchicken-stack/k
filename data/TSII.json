@@ -1,1 +1,18 @@
-
+{
+    "id": 57436521,
+    "name": "Thinking Space II",
+    "author": "CairoX",
+    "creators": ["CairoX", "DrCuber", "Iris"],
+    "verifier": "Totalgd",
+    "verification": "https://youtu.be/F05aMR0F6YM?si=EJ9rzJ8-UYyRzUiq",
+    "percentToQualify": 82,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Friedchicken",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+                    }
+    ]
+}
